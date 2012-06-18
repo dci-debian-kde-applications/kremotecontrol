@@ -1,1 +1,4 @@
+# We do not ship liblibkremotecontrol's dev files, so we can override the
+# following lintian warnings.
 kremotecontrol: package-name-doesnt-match-sonames liblibkremotecontrol1
+kremotecontrol: no-symbols-control-file usr/lib/liblibkremotecontrol.so.1.0.0
