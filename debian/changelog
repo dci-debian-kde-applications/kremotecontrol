@@ -7,4 +7,4 @@ kremotecontrol (4.8.4-1) unstable; urgency=low
   * Create a -dbg package:
     - Breaks+Replaces kdeutils-dbg << 4:4.8.
 
- -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Sun, 17 Jun 2012 19:07:03 -0300
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Mon, 18 Jun 2012 17:36:48 -0300
