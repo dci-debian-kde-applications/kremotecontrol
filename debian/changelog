@@ -4,6 +4,7 @@ kremotecontrol (4.8.4-1) unstable; urgency=low
   * Update Standards-Version to 3.9.3, no changes needed.
   * Add a watch file.
   * Add myself to Uploaders.
-  * Create a -dbg package.
+  * Create a -dbg package:
+    - Breaks+Replaces kdeutils-dbg << 4:4.8.
 
  -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Sun, 17 Jun 2012 19:07:03 -0300
