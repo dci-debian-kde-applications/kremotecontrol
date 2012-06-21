@@ -1,6 +1,6 @@
-kremotecontrol (4.8.4-2) UNRELEASED; urgency=low
+kremotecontrol (4:4.8.4-2) UNRELEASED; urgency=low
 
-
+  * The "I missed the epoch" release.
 
  -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Thu, 21 Jun 2012 13:51:10 -0300
 
