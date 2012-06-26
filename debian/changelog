@@ -1,11 +1,11 @@
-kremotecontrol (4:4.8.4-3) UNRELEASED; urgency=low
+kremotecontrol (4:4.8.4-3) unstable; urgency=low
 
-  [ Pino Toscano ]
+  * Team upload.
   * Readd kdelirc transitional package lost in the split.
   * Simplify copyright.
   * Readd lirc recommend lost in the split.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 26 Jun 2012 17:51:38 +0200
+ -- Pino Toscano <pino@debian.org>  Tue, 26 Jun 2012 18:18:21 +0200
 
 kremotecontrol (4:4.8.4-2) unstable; urgency=low
 
