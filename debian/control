@@ -20,6 +20,7 @@ Package: kremotecontrol
 Architecture: any
 Section: utils
 Depends: ${shlibs:Depends}, ${misc:Depends}
+Recommends: lirc
 Description: frontend for using remote controls
  KRemoteControl is a KDE frontend for your remote controls. It allows you
  to configure actions for button presses on remotes. All types of remotes
