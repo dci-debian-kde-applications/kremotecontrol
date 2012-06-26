@@ -1,5 +1,7 @@
 kremotecontrol (4:4.8.4-3) UNRELEASED; urgency=low
 
+  [ Pino Toscano ]
+  * Readd kdelirc transitional package lost in the split.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 26 Jun 2012 17:51:38 +0200
 
