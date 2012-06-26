@@ -2,50 +2,19 @@ Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: kremotecontrol
 Source: http://www.kde.org
 
+Files: *
+Copyright: 2002 Gav Wood <gav@kde.org>
+           2009-2011 Michael Zanetti <michael_zanetti@gmx.net>
+           2009-2010 Frank Scheffold <fscheffold@googlemail.com>
+License: GPL-2+
+
 Files: dataengines/*
 Copyright: 2010 Frank Scheffold <fscheffold@googlemail.com>
 License: LGPL-2.0
 
-Files: kcmremotecontrol/*
-Copyright: 2010 Michael Zanetti <michael_zanetti@gmx.net>
-           2009 Frank Scheffold <fscheffold@googlemail.com>
-License: GPL-2+
-
-Files: kded/*
-Copyright: 2010 Frank Scheffold <fscheffold@googlemail.com>
-License: GPL-2+
-
-Files: krcdnotifieritem/*
-Copyright: 2010 Michael Zanetti <michael_zanetti@gmx.net>
-License: GPL-2+
-
-Files: libkremotecontrol/backends/*
-Copyright: 2002 Gav Wood <gav@kde.org>
-           2009 Michael Zanetti <michael_zanetti@gmx.net>
-License: GPL-2+
-
-Files: libkremotecontrol/ifaces/*
-Copyright: 2011 Michael Zanetti <michael_zanetti@gmx.net>
-License: GPL-2+
-
-Files: libkremotecontrol/*
-Copyright: 2010-2011 Michael Zanetti <michael_zanetti@gmx.net>
-           2009 Frank Scheffold <fscheffold@googlemail.com>
-License: GPL-2+
-
-Files: tests/*
-Copyright: 2010 Frank Scheffold <fscheffold@googlemail.com>
-License: GPL-2+
-
 Files: kremotecontrol-version.h
 Copyright: 1998-1999 Preston Brown <pbrown@kde.org>
            2000-2004 Cornelius Schumacher <schumacher@kde.org>
-License: GPL-2+
-
-Files: *
-Copyright: 2010 Frank Scheffold <fscheffold@googlemail.com>
-           2010-2011 Michael Zanetti <michael_zanetti@gmx.net>
-           2002 Gav Wood <gav@kde.org>
 License: GPL-2+
 
 Files: debian/*
