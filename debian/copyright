@@ -6,6 +6,7 @@ Files: *
 Copyright: 2002 Gav Wood <gav@kde.org>
            2009-2011 Michael Zanetti <michael_zanetti@gmx.net>
            2009-2010 Frank Scheffold <fscheffold@googlemail.com>
+           Gioacchino Mazzurco <gio@eigenlab.org>
 License: GPL-2+
 
 Files: dataengines/*
