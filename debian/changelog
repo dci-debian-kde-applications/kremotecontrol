@@ -6,6 +6,7 @@ kremotecontrol (4:4.10.2-0r1) UNRELEASED; urgency=low
   * Bump the kde-sc-dev-latest and kdelibs5-dev build dependencies to 4.10.
   * Update Uploaders.
   * Update installed files.
+  * Minor touches to the descriptions.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 09 Apr 2013 19:32:29 +0200
 
