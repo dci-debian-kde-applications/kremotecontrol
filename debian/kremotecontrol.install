@@ -43,7 +43,9 @@ usr/share/kde4/apps/kremotecontrol/profiles/kscd.profile.xml
 usr/share/kde4/apps/kremotecontrol/profiles/okular.profile.xml
 usr/share/kde4/apps/kremotecontrol/profiles/powermanagement.profile.xml
 usr/share/kde4/apps/kremotecontrol/profiles/profile.xsd
+usr/share/kde4/apps/kremotecontrol/profiles/tomahawk.profile.xml
 usr/share/kde4/apps/kremotecontrol/profiles/vlc.profile.xml
+usr/share/kde4/apps/kremotecontrol/profiles/vlc2.profile.xml
 usr/share/kde4/apps/kremotecontroldaemon/kremotecontroldaemon.notifyrc
 usr/share/kde4/services/kcm_remotecontrol.desktop
 usr/share/kde4/services/kded/kremotecontroldaemon.desktop
