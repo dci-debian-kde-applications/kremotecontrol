@@ -1,4 +1,4 @@
-kremotecontrol (4:4.10.2-0r1) UNRELEASED; urgency=low
+kremotecontrol (4:4.10.2-1) experimental; urgency=low
 
   * New upstream release.
 
@@ -9,7 +9,7 @@ kremotecontrol (4:4.10.2-0r1) UNRELEASED; urgency=low
   * Minor touches to the descriptions.
   * Small copyright improvement.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 09 Apr 2013 19:32:29 +0200
+ -- Sune Vuorela <sune@debian.org>  Thu, 11 Apr 2013 21:31:56 +0000
 
 kremotecontrol (4:4.8.4-3) unstable; urgency=low
 
