@@ -2,15 +2,20 @@ Source: kremotecontrol
 Section: kde
 Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
-Uploaders: Fathi Boudra <fabo@debian.org>, Sune Vuorela <sune@debian.org>,
+Uploaders: Fathi Boudra <fabo@debian.org>,
+           Sune Vuorela <sune@debian.org>,
            Modestas Vainius <modax@debian.org>,
            George Kiagiadakis <kiagiadakis.george@gmail.com>,
            Eshat Cakar <info@eshat.de>,
            Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>,
            Maximiliano Curia <maxy@debian.org>
-Build-Depends: kde-sc-dev-latest (>= 4:4.11),
- cmake, debhelper (>= 9), pkg-kde-tools (>= 0.12),
- kdelibs5-dev (>= 4:4.11), libx11-dev, libxtst-dev
+Build-Depends: cmake,
+               debhelper (>= 9),
+               kde-sc-dev-latest (>= 4:4.11),
+               kdelibs5-dev (>= 4:4.11),
+               libx11-dev,
+               libxtst-dev,
+               pkg-kde-tools (>= 0.12)
 Standards-Version: 3.9.5
 XS-Testsuite: autopkgtest
 Homepage: http://www.kde.org
@@ -20,7 +25,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/kremotecontrol.git
 Package: kremotecontrol
 Architecture: any
 Section: utils
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${misc:Depends}, ${shlibs:Depends}
 Recommends: lirc
 Description: frontend for using remote controls
  KRemoteControl is a KDE frontend for your remote controls. It allows you
