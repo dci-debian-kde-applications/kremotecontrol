@@ -12,6 +12,7 @@ Build-Depends: cmake,
                debhelper (>= 9),
                kde-sc-dev-latest (>= 4:4.12),
                kdelibs5-dev,
+               libqt4-dev,
                libx11-dev,
                libxtst-dev,
                pkg-kde-tools (>= 0.12)
