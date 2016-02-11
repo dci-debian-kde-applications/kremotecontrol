@@ -1,8 +1,9 @@
-kremotecontrol (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
+kremotecontrol (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
 
+  * Merged with Debian 
   * New upstream release
 
- -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 14:12:35 +0000
+ -- Clive Johnston <clivejo@aol.com>  Thu, 11 Feb 2016 11:27:16 +0000
 
 kremotecontrol (4:15.08.2-0ubuntu1) wily; urgency=medium
 
@@ -15,6 +16,13 @@ kremotecontrol (4:15.08.1-0ubuntu1) wily; urgency=medium
   * New upstream release (15.08.1)
 
  -- Clive Johnston <clivejo@aol.com>  Tue, 22 Sep 2015 17:18:20 +0100
+
+kremotecontrol (4:15.08.0-1) unstable; urgency=medium
+
+  * New upstream release (15.04.0).
+  * New upstream release (15.08.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 19 Sep 2015 19:10:29 +0200
 
 kremotecontrol (4:15.08.0-0ubuntu1) wily; urgency=medium
 
@@ -39,11 +47,24 @@ kremotecontrol (4:15.04.2-0ubuntu1) wily; urgency=medium
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 19:18:40 +0200
 
+kremotecontrol (4:14.12.3-1) experimental; urgency=medium
+
+  * New upstream release (14.12.3).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 29 Mar 2015 15:13:26 +0200
+
 kremotecontrol (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 13 Mar 2015 14:28:19 -0700
+
+kremotecontrol (4:14.12.2-1) experimental; urgency=medium
+
+  * Prepare Debian release.
+  * Bump Standards-Version to 3.9.6, no changes needed.
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 19 Feb 2015 11:32:11 +0100
 
 kremotecontrol (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
