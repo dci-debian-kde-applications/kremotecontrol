@@ -1,3 +1,11 @@
+kremotecontrol (4:15.08.0-2~1.gbp1763e6) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @1763e660ea6108d67a8317cab877fef7abb7d4cd **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:04:20 +0200
+
 kremotecontrol (4:15.08.0-1) unstable; urgency=medium
 
   * New upstream release (15.04.0).
