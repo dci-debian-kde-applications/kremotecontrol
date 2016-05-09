@@ -49,16 +49,3 @@ Description: transitional package for kremotecontrol
  to the new kremotecontrol.  It can be safely removed.
  .
  This package is part of the KDE utilities module.
-
-Package: kremotecontrol-dbg
-Architecture: any
-Section: debug
-Priority: extra
-Depends: kremotecontrol (= ${binary:Version}), ${misc:Depends}
-Breaks: kdeutils-dbg (<< 4:4.8)
-Replaces: kdeutils-dbg (<< 4:4.8)
-Description: debugging symbols for kremotecontrol
- This package contains debugging files used to investigate problems with
- kremotecontrol.
- .
- This package is part of the KDE utilities module.

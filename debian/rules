@@ -3,4 +3,4 @@
 include /usr/share/pkg-kde-tools/qt-kde-team/2/debian-qt-kde.mk
 
 override_dh_strip:
-	$(overridden_command) --dbg-package=kremotecontrol-dbg
+	$(overridden_command) --dbgsym-migration='kremotecontrol-dbg (<= 4:15.08.0-2~1.gbp1763e6~)'
