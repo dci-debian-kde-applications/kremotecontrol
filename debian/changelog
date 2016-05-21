@@ -1,10 +1,6 @@
-kremotecontrol (4:15.08.0-2~2.gbp40ce35) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @40ce358a8207f99f3aa2f1f6a12d012f22b6ea8f **
+kremotecontrol (4:15.08.0-2) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @1763e660ea6108d67a8317cab877fef7abb7d4cd **
-
   * Bump Standards-Version to 3.9.8
   * Migrate dbg package to automatic dbgsym
 
@@ -12,7 +8,7 @@ kremotecontrol (4:15.08.0-2~2.gbp40ce35) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 10:03:16 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 21 May 2016 21:11:31 +0200
 
 kremotecontrol (4:15.08.0-1) unstable; urgency=medium
 
