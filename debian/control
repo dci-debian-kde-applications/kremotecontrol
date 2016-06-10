@@ -16,7 +16,7 @@ Build-Depends: cmake,
                libx11-dev,
                libxtst-dev,
                pkg-kde-tools (>= 0.12)
-Standards-Version: 3.9.6
+Standards-Version: 3.9.8
 Homepage: http://www.kde.org
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/kremotecontrol.git
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/kremotecontrol.git
@@ -47,18 +47,5 @@ Depends: kremotecontrol (>= ${source:Version}), ${misc:Depends}
 Description: transitional package for kremotecontrol
  This is a transitional package provided to ease upgrade from kdelirc
  to the new kremotecontrol.  It can be safely removed.
- .
- This package is part of the KDE utilities module.
-
-Package: kremotecontrol-dbg
-Architecture: any
-Section: debug
-Priority: extra
-Depends: kremotecontrol (= ${binary:Version}), ${misc:Depends}
-Breaks: kdeutils-dbg (<< 4:4.8)
-Replaces: kdeutils-dbg (<< 4:4.8)
-Description: debugging symbols for kremotecontrol
- This package contains debugging files used to investigate problems with
- kremotecontrol.
  .
  This package is part of the KDE utilities module.

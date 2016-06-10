@@ -1,8 +1,14 @@
-kremotecontrol (4:16.04.1-0neon) xenial; urgency=medium
+kremotecontrol (4:15.08.0-2) unstable; urgency=medium
 
-  * New release
+  [ Automatic packaging ]
+  * Bump Standards-Version to 3.9.8
+  * Migrate dbg package to automatic dbgsym
 
- -- Neon CI <neon@kde.org>  Wed, 18 May 2016 18:44:47 +0200
+  [ Maximiliano Curia ]
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 21 May 2016 21:11:31 +0200
 
 kremotecontrol (4:15.08.0-1) unstable; urgency=medium
 
