@@ -1,6 +1,6 @@
-kremotecontrol (4:16.08.0-0r1) UNRELEASED; urgency=medium
+kremotecontrol (4:16.08.0-1) unstable; urgency=medium
 
-  [ Pino Toscano ]
+  * Team upload.
   * New upstream release.
   * Force the local installation to debian/kremotecontrol, so there is no need
     to copy things later from debian/tmp:
@@ -9,7 +9,7 @@ kremotecontrol (4:16.08.0-0r1) UNRELEASED; urgency=medium
     - remove not-installed, no more used now
   * Do not ship TODO as documentation, since it is useless for users.
 
- -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 24 Aug 2016 19:14:16 +0200
+ -- Pino Toscano <pino@debian.org>  Wed, 24 Aug 2016 19:31:14 +0200
 
 kremotecontrol (4:15.08.0-2) unstable; urgency=medium
 
