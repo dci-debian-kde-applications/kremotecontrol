@@ -7,6 +7,7 @@ kremotecontrol (4:16.08.0-0r1) UNRELEASED; urgency=medium
     - manually remove the files that are not needed
     - remove kremotecontrol.install, no more used now
     - remove not-installed, no more used now
+  * Do not ship TODO as documentation, since it is useless for users.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 24 Aug 2016 19:14:16 +0200
 
