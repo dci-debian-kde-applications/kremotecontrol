@@ -1,2 +1,0 @@
-#dev .so symlinks, we aren't shipping dev suff for these
-./usr/lib/liblibkremotecontrol.so
