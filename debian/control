@@ -20,17 +20,6 @@ Homepage: http://www.kde.org
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/kremotecontrol.git
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/kremotecontrol.git
 
-Package: kdelirc
-Section: oldlibs
-Architecture: all
-Priority: optional
-Depends: kremotecontrol (>= ${source:Version}), ${misc:Depends}
-Description: transitional package for kremotecontrol
- This is a transitional package provided to ease upgrade from kdelirc
- to the new kremotecontrol.  It can be safely removed.
- .
- This package is part of the KDE utilities module.
-
 Package: kremotecontrol
 Architecture: any
 Section: utils

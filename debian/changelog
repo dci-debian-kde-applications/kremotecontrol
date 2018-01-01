@@ -1,11 +1,12 @@
 kremotecontrol (4:17.08.3-0r1) UNRELEASED; urgency=medium
 
   [ Maximiliano Curia ]
-  * Set Priority to optional
   * Update uploaders list as requested by MIA team (Closes: #879367)
 
   [ Pino Toscano ]
   * New upstream release.
+  * Drop the transitional package kdelirc, as it is no more needed now.
+    (Closes: #878638)
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 31 Oct 2017 18:02:34 +0100
 
