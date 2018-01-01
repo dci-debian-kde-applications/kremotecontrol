@@ -9,6 +9,7 @@ kremotecontrol (4:17.08.3-0r1) UNRELEASED; urgency=medium
     (Closes: #878638)
   * Bump Standards-Version to 4.1.3, no changes required.
   * Simplify watch file, and switch it to https.
+  * Remove trailing whitespaces in changelog.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 31 Oct 2017 18:02:34 +0100
 
@@ -503,7 +504,7 @@ kremotecontrol (4:4.8.2-0ubuntu1) precise; urgency=low
 
 kremotecontrol (4:4.8.1-0ubuntu1) precise; urgency=low
 
-  * New upstream release 
+  * New upstream release
 
  -- Philip Muškovac <yofel@kubuntu.org>  Sun, 04 Mar 2012 21:50:53 +0100
 
