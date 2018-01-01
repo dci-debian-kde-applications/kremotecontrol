@@ -1,0 +1,16 @@
+Author: Pino Toscano <pino@debian.org>
+Description: Make it possible to disable the plasma components.
+Forwarded: not-needed
+Last-Update: 2018-01-01
+
+--- a/CMakeLists.txt
++++ b/CMakeLists.txt
+@@ -29,7 +29,7 @@ add_subdirectory(kcmremotecontrol)
+ add_subdirectory(profiles)
+ add_subdirectory(kded)
+ add_subdirectory(krcdnotifieritem)
+-add_subdirectory(dataengine)
++macro_optional_add_subdirectory(dataengine)
+ 
+ if(KDE4_BUILD_TESTS)
+   add_subdirectory(tests)
